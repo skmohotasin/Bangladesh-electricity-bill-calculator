@@ -1,6 +1,8 @@
 # electricity bill check Bangladesh  
 Example add for WZPDCL and BREB
-<a href="Electricity Tariff-29 February'2024.pdf">Electricity Tariff-29 February'2024</a>
+<br>
+
+Tariff 2024: <a href="Electricity Tariff-29 February'2024.pdf">Electricity Tariff-29 February'2024</a>
 
 <p align="justify">Introduction: In a digital era where electricity is an indispensable commodity, it's imperative for consumers to have a transparent understanding of their electricity bills. The West Zone Power Distribution Company Limited (WZPDCL) and Bangladesh Rural Electrification Board (BREB) are two significant entities entrusted with providing electricity to consumers in Bangladesh. Ensuring accurate billing is crucial for maintaining trust and fostering healthy consumer-provider relationships. This description outlines the process of electricity bill calculation and encourages consumers to verify their bills for accuracy.
 Description: Electricity bills from WZPDCL and BREB are meticulously calculated based on several factors to ensure fairness and accuracy. The calculation process involves multiple steps to account for consumption, tariff rates, taxes, and other applicable charges. Here's a brief overview of how electricity bills are calculated:</p>
