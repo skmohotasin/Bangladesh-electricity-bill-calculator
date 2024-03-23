@@ -39,7 +39,7 @@ Description: Electricity bills from WZPDCL and BREB are meticulously calculated 
     <li>In case of any discrepancies or queries, consumers can contact the respective utility provider for clarification.</li>
     <li>Once verified, consumers can proceed with payment through designated payment channels such as banks, online platforms, or authorized agents.</li>
   </ul>
-  
+<br>
 <p align="justify">Conclusion: Ensuring the accuracy of electricity bills is essential for promoting transparency and trust between consumers and utility providers. By understanding the process of bill calculation and actively verifying their bills, consumers can contribute to the integrity of the billing system. WZPDCL and BREB remain committed to providing reliable electricity services while upholding standards of fairness and accountability in billing practices.</p>
 
 
