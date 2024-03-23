@@ -1,8 +1,8 @@
 # electricity bill check Bangladesh  
 Example add for WZPDCL and BREB
 
-Introduction: In a digital era where electricity is an indispensable commodity, it's imperative for consumers to have a transparent understanding of their electricity bills. The West Zone Power Distribution Company Limited (WZPDCL) and Bangladesh Rural Electrification Board (BREB) are two significant entities entrusted with providing electricity to consumers in Bangladesh. Ensuring accurate billing is crucial for maintaining trust and fostering healthy consumer-provider relationships. This description outlines the process of electricity bill calculation and encourages consumers to verify their bills for accuracy.
-Description: Electricity bills from WZPDCL and BREB are meticulously calculated based on several factors to ensure fairness and accuracy. The calculation process involves multiple steps to account for consumption, tariff rates, taxes, and other applicable charges. Here's a brief overview of how electricity bills are calculated:
+<p align="justify">Introduction: In a digital era where electricity is an indispensable commodity, it's imperative for consumers to have a transparent understanding of their electricity bills. The West Zone Power Distribution Company Limited (WZPDCL) and Bangladesh Rural Electrification Board (BREB) are two significant entities entrusted with providing electricity to consumers in Bangladesh. Ensuring accurate billing is crucial for maintaining trust and fostering healthy consumer-provider relationships. This description outlines the process of electricity bill calculation and encourages consumers to verify their bills for accuracy.
+Description: Electricity bills from WZPDCL and BREB are meticulously calculated based on several factors to ensure fairness and accuracy. The calculation process involves multiple steps to account for consumption, tariff rates, taxes, and other applicable charges. Here's a brief overview of how electricity bills are calculated:</p>
 <ul>
   <li>1.	Consumption Measurement:</li>
   <ul>
@@ -38,6 +38,6 @@ Description: Electricity bills from WZPDCL and BREB are meticulously calculated 
     <li>In case of any discrepancies or queries, consumers can contact the respective utility provider for clarification.</li>
     <li>Once verified, consumers can proceed with payment through designated payment channels such as banks, online platforms, or authorized agents.</li>
   </ul>
-Conclusion: Ensuring the accuracy of electricity bills is essential for promoting transparency and trust between consumers and utility providers. By understanding the process of bill calculation and actively verifying their bills, consumers can contribute to the integrity of the billing system. WZPDCL and BREB remain committed to providing reliable electricity services while upholding standards of fairness and accountability in billing practices.
+<p align="justify">Conclusion: Ensuring the accuracy of electricity bills is essential for promoting transparency and trust between consumers and utility providers. By understanding the process of bill calculation and actively verifying their bills, consumers can contribute to the integrity of the billing system. WZPDCL and BREB remain committed to providing reliable electricity services while upholding standards of fairness and accountability in billing practices.</p>
 
 
