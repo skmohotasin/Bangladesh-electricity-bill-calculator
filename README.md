@@ -7,7 +7,7 @@ Tariff 2024: <a href="Electricity Tariff-29 February'2024.pdf">Electricity Tarif
 
 Electricity Bill calculator both Prepaid and Postpaid: <a href="WZPDCL and BREB Bill calculator.xlsx">WZPDCL and BERB offline bill calculator</a> 
 &
-<a href="https://docs.google.com/spreadsheets/d/1q-q41udEnO2suPe6b9q6xQDmhH5x3-u1M5oDwtr17mI/edit?usp=sharing">WZPDCL and BERB online bill calculator </a>
+<a href="https://docs.google.com/spreadsheets/d/1q-q41udEnO2suPe6b9q6xQDmhH5x3-u1M5oDwtr17mI/edit?usp=sharing">Electricity bill calculator (online)</a>
 
 <p align="justify">Introduction: In a digital era where electricity is an indispensable commodity, it's imperative for consumers to have a transparent understanding of their electricity bills. The West Zone Power Distribution Company Limited (WZPDCL) and Bangladesh Rural Electrification Board (BREB) are two significant entities entrusted with providing electricity to consumers in Bangladesh. Ensuring accurate billing is crucial for maintaining trust and fostering healthy consumer-provider relationships. This description outlines the process of electricity bill calculation and encourages consumers to verify their bills for accuracy.
 Description: Electricity bills from WZPDCL and BREB are meticulously calculated based on several factors to ensure fairness and accuracy. The calculation process involves multiple steps to account for consumption, tariff rates, taxes, and other applicable charges. Here's a brief overview of how electricity bills are calculated:</p>
