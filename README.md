@@ -1,4 +1,4 @@
-# electricity bill check Bangladesh  
+# Bangladesh electricity bill calculator
 Example add for WZPDCL and BREB
 <br>
 
